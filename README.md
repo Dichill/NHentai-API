@@ -47,7 +47,7 @@ if b == 'y' or 'yes' or 'Yes':
 
 if c == 'y' or 'yes' or 'Yes':
     d = input("How many Previews would you like? If there are less than the previews it will automatically end the process. ")
-    drx.getPreviews(a, 20)
+    drx.getPreviews(a, int(d))
 
 ```
 
