@@ -7,6 +7,7 @@
 * **Get Previews and Tags in just a matter of seconds!**
 
 # Try it!
+Thumbnail should download but the the previews idk with repl.it probably some limiter or something.
 https://repl.it/@Dichill/NHentaiAPI
 
 ## How to Use
