@@ -10,6 +10,9 @@
 Thumbnail should download but the the previews idk with repl.it probably some limiter or something.
 https://repl.it/@Dichill/NHentaiAPI
 
+# Preview
+https://www.youtube.com/watch?v=XU9FLbLIfyQ&feature=youtu.be
+
 ## How to Use
 
 ```python
